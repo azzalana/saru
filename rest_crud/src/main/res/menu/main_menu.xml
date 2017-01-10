@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_search"
+        android:icon="@drawable/ic_yo"
+        android:name="@string/save"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+        app:showAsAction="collapseActionView|always" />
+    <item
+        android:id="@+id/menu_refresh"
+        android:icon="@drawable/ic_"
+        android:name="@string/refresh"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menu_save"
+        android:icon="@drawable/ic_system_update_alt_black_24dp"
+        android:name="@string/search"
+        app:showAsAction="always" />
+</menu>

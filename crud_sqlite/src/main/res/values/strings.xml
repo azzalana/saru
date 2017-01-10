@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ITS newbie</string>
+    <string name="name">Title</string>
+    <string name="edit">Edit</string>
+    <string name="choice_one">Choice One</string>
+    <string name="delete">Delete</string>
+    <string name="content">Content</string>
+    <string name="save">Save</string>
+    <string name="search">Search</string>
+    <string name="refresh">Refresh</string>
+</resources>
